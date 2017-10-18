@@ -8,3 +8,6 @@ Build a box resonator out of wood, stretch the muscle wire within the box.
 will need to get some crimps, ideally the barrel shape so we can mount the wires in the box. 
 
 anothe rprototype could be to use a guitar bridge (or something in the shape of a tunomatic and nut, and place the bridge and nut at a length optimal for a good lowest frequency)
+
+At what temperature does the wire START to move into the austenite state? 
+	- if it can partially contract in response to current < than the 'full' austenite target, then this should work. i.e. if 0.005mm wire austentites at 200mA, then will 150ma still cause it to austentite partially?
