@@ -11,3 +11,7 @@ anothe rprototype could be to use a guitar bridge (or something in the shape of 
 
 At what temperature does the wire START to move into the austenite state? 
 	- if it can partially contract in response to current < than the 'full' austenite target, then this should work. i.e. if 0.005mm wire austentites at 200mA, then will 150ma still cause it to austentite partially?
+
+
+when writing a commit message just now, did some brainstorming on this problem above: 
+	- whether variable austenite states would result from varying the current amount: for 0.005mm wire, n<=200mA; where n is the lowest amperage value that still results in some amount of contraction
