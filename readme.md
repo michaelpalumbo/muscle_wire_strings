@@ -1,5 +1,1 @@
-<object data="Notes on Muscle_Wire_Strings.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Notes on Muscle_Wire_Strings.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe id="equations" style="border:1px solid #666CCC" title="Design Notes" src="Notes on Muscle_Wire_Strings.pdf" frameborder="1" scrolling="auto" height="1100" width="850" ></iframe>
